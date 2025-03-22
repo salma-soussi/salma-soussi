@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm salma</h1>
-<h3 align="center">A passionate software engineering student from Tunisia</h3>
+<h3 align="center">A passionate software engineer</h3>
 
 <h2>⭐ About me</h2>
 
 
-- 🔭 I’m currently working on **React Native App**
+- 🔭 I’m currently working on **Full Stack Interview Platform **
 
-- 🌱 I’m currently learning **React Native, DevOps and SpringBoot**
+- 🌱 I’m currently learning **AI**
 
 - 💪 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 - 💬 Ask me about **React JS , JavaScript**
 
-- 📫 How to reach me **soussiselma@hotmail**
+- 📫 How to reach me **soussiselma@hotmail.com**
 
 
 <br>
